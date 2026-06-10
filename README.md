@@ -11,4 +11,4 @@ Things I learned:<br>
 - DOM selectors getElementByID and querySelectorAll<br>
 - The most important thing I learned here is the event listeners and how they work, the requirements, etc.<br>
 
-Live: https://learning-softdev.github.io/rock-paper-scissors/
+Live: https://owa-dev.github.io/rock-paper-scissors/
